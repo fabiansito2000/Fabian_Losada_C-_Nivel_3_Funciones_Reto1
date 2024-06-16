@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admi\\Downloads\\Fabian_Losada_Reto_Funciones\\Ejercicio 2_Convertidor de Temperatura\\Ejercicio_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF64C5E-3872-4C3F-988E-0C2437E9ACC7}|Ejercicio_2\\Ejercicio_2.csproj|c:\\users\\admi\\downloads\\fabian_losada_reto_funciones\\ejercicio 2_convertidor de temperatura\\ejercicio_2\\ejercicio_2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF64C5E-3872-4C3F-988E-0C2437E9ACC7}|Ejercicio_2\\Ejercicio_2.csproj|solutionrelative:ejercicio_2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Admi\\Downloads\\Fabian_Losada_Reto_Funciones\\Ejercicio 2_Convertidor de Temperatura\\Ejercicio_2\\Ejercicio_2\\Class1.cs",
+              "RelativeDocumentMoniker": "Ejercicio_2\\Class1.cs",
+              "ToolTip": "C:\\Users\\Admi\\Downloads\\Fabian_Losada_Reto_Funciones\\Ejercicio 2_Convertidor de Temperatura\\Ejercicio_2\\Ejercicio_2\\Class1.cs",
+              "RelativeToolTip": "Ejercicio_2\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:29:35.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
