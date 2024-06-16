@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admi\\Downloads\\Fabian_Losada_Reto_Funciones\\Ejercicio 3_Analizador de Texto\\Ejercicio_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED90C7-807F-418A-99C6-9868DAD43CE2}|Ejercicio_3\\Ejercicio_3.csproj|c:\\users\\admi\\downloads\\fabian_losada_reto_funciones\\ejercicio 3_analizador de texto\\ejercicio_3\\ejercicio_3\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDED90C7-807F-418A-99C6-9868DAD43CE2}|Ejercicio_3\\Ejercicio_3.csproj|solutionrelative:ejercicio_3\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Admi\\Downloads\\Fabian_Losada_Reto_Funciones\\Ejercicio 3_Analizador de Texto\\Ejercicio_3\\Ejercicio_3\\Class1.cs",
+              "RelativeDocumentMoniker": "Ejercicio_3\\Class1.cs",
+              "ToolTip": "C:\\Users\\Admi\\Downloads\\Fabian_Losada_Reto_Funciones\\Ejercicio 3_Analizador de Texto\\Ejercicio_3\\Ejercicio_3\\Class1.cs",
+              "RelativeToolTip": "Ejercicio_3\\Class1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:17:24.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
